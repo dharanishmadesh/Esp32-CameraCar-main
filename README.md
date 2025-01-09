@@ -127,11 +127,4 @@ This project is open-source. Feel free to modify and distribute it as per your n
 
 ---
 
-## Author
-Your Name (Optional)
 
-For any queries or contributions, feel free to contact me.
-
----
-
-Let me know if you'd like me to refine or add additional details!
